@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img src="https://github.com/user-attachments/assets/62065aa7-99e8-4192-a8e2-818ec6cb556e" width="200" height="200">
+
 <!--
 **NimaMaria/NimaMaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
