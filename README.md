@@ -23,7 +23,13 @@ Hi 👋 My name is Nima Maria Jacob
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/NimaMaria" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/nima-maria-jacob" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+
 ### Badges
+<p>
+  <img src="quickdraw-default-39c6aec8ff89.png" width="40" height="40">
+  <img src="pull-shark-default-498c279a747d.png" width="40" height="40">
+  <img src="552800783-62065aa7-99e8-4192-a8e" width="40" height="40">
+</p>
 
 <b>My GitHub Stats</b>
 
