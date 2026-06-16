@@ -1,4 +1,4 @@
-Hi 👋 My name is Nima Maria Jacob
+Hi 👋 I'm Nima Maria Jacob
 =================================
 
 🎓 Fourth-Year Computer Science Student
