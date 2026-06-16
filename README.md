@@ -28,10 +28,8 @@ Hi 👋 I'm Nima Maria Jacob
   <img src="hack-the-stack.png" width="45" height="45">
 </p>
 
-<b>My GitHub Stats</b>
+### My GitHub Stats
 
-<a href="http://www.github.com/NimaMaria"><img src="https://github-readme-stats.vercel.app/api?username=NimaMaria&show_icons=true&hide=&count_private=true&title_color=64748b&text_color=3382ed&icon_color=f97316&bg_color=1c1917&hide_border=true&show_icons=true" alt="NimaMaria's GitHub stats" /></a>
-
-<a href="http://www.github.com/NimaMaria"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NimaMaria&stroke=3382ed&background=1c1917&ring=64748b&fire=64748b&currStreakNum=3382ed&currStreakLabel=64748b&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
-
-<a href="https://github.com/NimaMaria" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NimaMaria&langs_count=10&title_color=64748b&text_color=3382ed&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+![](https://github-readme-stats.shion.dev/api?username=NimaMaria&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=NimaMaria&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=NimaMaria&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
