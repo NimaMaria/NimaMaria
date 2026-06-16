@@ -1,7 +1,3 @@
-## Hi there 👋
-
-<img src="https://github.com/user-attachments/assets/62065aa7-99e8-4192-a8e2-818ec6cb556e" width="200" height="200">
-
 Hi 👋 My name is Nima Maria Jacob
 =================================
 
@@ -26,9 +22,9 @@ Hi 👋 My name is Nima Maria Jacob
 
 ### Badges
 <p>
-  <img src="quickdraw-default-39c6aec8ff89.png" width="40" height="40">
-  <img src="pull-shark-default-498c279a747d.png" width="40" height="40">
-  <img src="hack-the-stack.png" width="40" height="40">
+  <img src="quickdraw-default-39c6aec8ff89.png" width="45" height="45">
+  <img src="pull-shark-default-498c279a747d.png" width="45" height="45">
+  <img src="hack-the-stack.png" width="45" height="45">
 </p>
 
 <b>My GitHub Stats</b>
