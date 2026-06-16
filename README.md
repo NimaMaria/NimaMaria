@@ -28,7 +28,7 @@ Hi 👋 My name is Nima Maria Jacob
 <p>
   <img src="quickdraw-default-39c6aec8ff89.png" width="40" height="40">
   <img src="pull-shark-default-498c279a747d.png" width="40" height="40">
-  <img src="552800783-62065aa7-99e8-4192-a8e" width="40" height="40">
+  <img src="hack-the-stack.png" width="40" height="40">
 </p>
 
 <b>My GitHub Stats</b>
